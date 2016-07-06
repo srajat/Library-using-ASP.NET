@@ -30,18 +30,19 @@ Your One Stop Solution for Library Management.
 5. Web Browser
 
 ### Using Microsoft Visual Studio 2015 <a name='using-microsoft-visual-studio'></a>
-
-1. Create a new Website ~~Project~~ in Visual Studio
+<pre>
+1. Create a new <del>Project</del> Website in Visual Studio
 2. Fork this repo
 3. Copy all the files in this repo to website's folder
 4. Configure Database on the machine accordingly
 5. Run the website
-
+</pre>
 ### Technologies Used <a name='technologies-used'></a>
 
 1. Bootstrap 3.3.5
 2. ASP.NET framework 5
-3. C#
+3. HTML and C#
+4. SQL
 
 ## Features <a name='features'></a>
 
