@@ -72,6 +72,6 @@ Issues a book that is avaliable currently to the logged in user.
 
 ## Links <a name='links'></a>
 
-Visit me:     [Rajat Saxena](http://www.rajatsaxena.in/)
+Visit me:     [Rajat Saxena](http://www.rajatsaxena.me/)
 
 Contact me:     <rajat8171@gmail.com>
